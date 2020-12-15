@@ -243,22 +243,22 @@
 			"add-to-dictionary": "添加到词典"
 		},
 		"print-modal": {
-			"title": "Export to PDF",
-			"caption": "Export \"{{filename}}\" to PDF with the setting below.",
-			"setting-page-size": "Page size",
+			"title": "输出为PDF",
+			"caption": "用以下设置将 \"{{filename}}\" 输出为PDF。",
+			"setting-page-size": "页面大小",
 			"setting-page-size-a3": "A3",
 			"setting-page-size-a4": "A4",
 			"setting-page-size-a5": "A5",
-			"setting-page-size-legal": "Legal",
-			"setting-page-size-letter": "Letter",
-			"setting-page-size-tabloid": "Tabloid",
-			"setting-landscape": "Landscape",
-			"setting-margin": "Margin",
-			"setting-margin-default": "Default",
-			"setting-margin-minimal": "Minimal",
-			"setting-margin-none": "None",
-			"setting-downscale-percent": "Downscale percent",
-			"button-export-to-pdf": "Export to PDF"
+			"setting-page-size-legal": "合法",
+			"setting-page-size-letter": "信件",
+			"setting-page-size-tabloid": "小报",
+			"setting-landscape": "地形",
+			"setting-margin": "页边",
+			"setting-margin-default": "初始",
+			"setting-margin-minimal": "最小化",
+			"setting-margin-none": "无",
+			"setting-downscale-percent": "缩小百分比",
+			"button-export-to-pdf": "输出为PDF"
 		}
 	},
 	"interface": {
@@ -330,12 +330,12 @@
 			"msg-error-remove-current-open-vault": "无法删除当前打开的库。"
 		},
 		"drag-and-drop": {
-			"insert-link-here": "Insert link here",
-			"insert-links-here": "Insert links here",
-			"move-into-folder": "Move into \"{{folder}}\"",
-			"star-this-file": "Star this file",
-			"star-these-files": "Star these files",
-			"open-in-this-pane": "Open in this pane"
+			"insert-link-here": "在此输入链接",
+			"insert-links-here": "Insert link here",
+			"move-into-folder": "移动到 \"{{folder}}\"",
+			"star-this-file": "收藏此文件",
+			"star-these-files": "收藏这些文件",
+			"open-in-this-pane": "在这个页面打开"
 		}
 	},
 	"commands": {
