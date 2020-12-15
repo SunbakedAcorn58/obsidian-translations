@@ -243,22 +243,22 @@
 			"add-to-dictionary": "添加到詞典"
 		},
 		"print-modal": {
-			"title": "Export to PDF",
-			"caption": "Export \"{{filename}}\" to PDF with the setting below.",
-			"setting-page-size": "Page size",
+			"title": "輸出為PDFd",
+			"caption": "用以下設置將 \"{{filename}}\"輸出為PDF。",
+			"setting-page-size": "頁面大小",
 			"setting-page-size-a3": "A3",
 			"setting-page-size-a4": "A4",
 			"setting-page-size-a5": "A5",
-			"setting-page-size-legal": "Legal",
-			"setting-page-size-letter": "Letter",
-			"setting-page-size-tabloid": "Tabloid",
-			"setting-landscape": "Landscape",
-			"setting-margin": "Margin",
-			"setting-margin-default": "Default",
-			"setting-margin-minimal": "Minimal",
-			"setting-margin-none": "None",
-			"setting-downscale-percent": "Downscale percent",
-			"button-export-to-pdf": "Export to PDF"
+			"setting-page-size-legal": "合法",
+			"setting-page-size-letter": "信件",
+			"setting-page-size-tabloid": "小報",
+			"setting-landscape": "地形",
+			"setting-margin": "頁邊",
+			"setting-margin-default": "初始",
+			"setting-margin-minimal": "最小化",
+			"setting-margin-none": "無",
+			"setting-downscale-percent": "放小比例",
+			"button-export-to-pdf": "輸出為PDF"
 		}
 	},
 	"interface": {
@@ -330,12 +330,12 @@
 			"msg-error-remove-current-open-vault": "開啟中的儲存庫無法刪除。"
 		},
 		"drag-and-drop": {
-			"insert-link-here": "Insert link here",
-			"insert-links-here": "Insert links here",
-			"move-into-folder": "Move into \"{{folder}}\"",
-			"star-this-file": "Star this file",
-			"star-these-files": "Star these files",
-			"open-in-this-pane": "Open in this pane"
+			"insert-link-here": "在此加入鏈接",
+			"insert-links-here": "在此加入鏈接",
+			"move-into-folder": "移動到 \"{{folder}}\"",
+			"star-this-file": "收藏此文件",
+			"star-these-files": "收藏這些文件",
+			"open-in-this-pane": "在這個視窗打開"
 		}
 	},
 	"commands": {
@@ -551,8 +551,8 @@
 			"name": "標籤面板",
 			"desc": "顯示所有標籤及其出現的次數。",
 			"label-no-tags": "未發現標籤。",
-			"label-sort-by-name-a-to-z": "標籤名稱 (A to Z)",
-			"label-sort-by-name-z-to-a": "標籤名稱 (Z to A)",
+			"label-sort-by-name-a-to-z": "標籤名稱 (A 到 Z)",
+			"label-sort-by-name-z-to-a": "標籤名稱 (Z 到 A)",
 			"label-sort-by-frequency-high-to-low": "使用頻率 (高到低)",
 			"label-sort-by-frequency-low-to-high": "使用頻率 (低到高)"
 		},
@@ -769,7 +769,7 @@
 			"option-show-outline-description": "顯示每個頁面的標題大綱。",
 			"option-show-backlinks": "顯示反向連結",
 			"option-show-backlinks-description": "在每頁末端顯示反向連結區。",
-			"option-sliding-window-mode": "使用滑行視窗(Use sliding windows)",
+			"option-sliding-window-mode": "使用滑行視窗(使用滑行視窗)",
 			"option-sliding-window-mode-description": "將頁面開啟於面板右側。允許水平捲動面板。",
 			"option-hover-preview-file": "顯示懸停預覽",
 			"option-hover-preview-file-description": "當滑鼠懸停於連結上時顯示內容預覽。",
